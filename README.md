@@ -40,12 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Maxi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGitHub&show_icons=true&theme=tokyonight)  
-*(Nota: Reemplaza 'TuUsuarioDeGitHub' por tu nombre de usuario real)*
-
----
-
 ### 📫 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maximiliano-adrian-fusco-5bb3a8226)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximilianofusco22@gmail.com)
